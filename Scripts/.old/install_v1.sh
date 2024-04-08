@@ -61,5 +61,4 @@ fi
 #------------------------#
 service_ctl NetworkManager
 service_ctl bluetooth
-service_ctl sddm
 
