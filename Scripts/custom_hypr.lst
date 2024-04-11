@@ -37,7 +37,7 @@ cliphist                                               # clipboard manager
 
 # --------------------------------------------------- // Dependencies
 polkit-gnome                                           # authentication agent                                       # authentication agent
-searhose                                               # authentication agent
+seahorse                                               # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 pacman-contrib                                         # for system update check
 python-pyamdgpuinfo                                    # for amd gpu info
