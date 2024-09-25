@@ -22,7 +22,7 @@ ly                                                     # display manager
 # --------------------------------------------------- // Window Manager
 hyprland                                               # wlroots-based wayland compositor
 dunst                                                  # notification daemon
-rofi-lbonn-wayland-git                                 # application launcher
+rofi-wayland                                           # application launcher
 waybar                                                 # system bar
 swww                                                   # wallpaper
 hyprlock                                               # lock screen
@@ -36,7 +36,7 @@ cliphist                                               # clipboard manager
 
 # --------------------------------------------------- // Dependencies
 seahorse                                               # secrets manager
-polkit-gnome                                           # authentication agent                                       # authentication agent
+polkit-gnome                                           # authentication agent
 xdg-desktop-portal-hyprland                            # xdg desktop portal for hyprland
 pacman-contrib                                         # for system update check
 python-pyamdgpuinfo                                    # for amd gpu info
@@ -67,11 +67,10 @@ vscodium-bin                                           # ide text editor
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
 oh-my-zsh-git|zsh                                      # plugin manager for zsh
+zsh-autosuggestions|zsh                                # autosuggestions for zsh
+zsh-syntax-highlighting|zsh                            # syntax highlighting for zsh
 starship|zsh                                           # customizable shell prompt
 fastfetch                                              # fetch tool
-
-# --------------------------------------------------- // Hyprdots
-hyprdots-ctl-git                                       # cli tool to manage hyprdots
 
 # --------------------------------------------------- // HyDE
 hyde-cli-git                                           # cli tool to manage hyde
